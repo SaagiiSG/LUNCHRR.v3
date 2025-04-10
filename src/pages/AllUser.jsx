@@ -103,12 +103,12 @@ const AllUser = ({loggedIn}) => {
         
         {isAddNewDisplay ? <Popup handleClick={DisplayAddNewUser}/> : ""}
         <Details pageName={"User control"} pagePath={"/Users"}/>
-        <section className='relative flex flex-col w-full gap-4 items-start text-lgx  py-5 px-4 bg-gray-900 text-white rounded-2xl'>
+        <section className='relative flex flex-col w-full gap-4 items-start text-lgx  py-5 px-4 bg-gray-800 text-white rounded-2xl'>
           <div className='flex w-full items-center justify-between'>
           
             <div className='flex gap-4 items-center'>
-              <Users />
-              <p className='text-2xl'>Users</p>
+              <Users className='text-emerald-400'/>
+              <p className='text-2xl font-semibold'>Users</p>
             </div>
           
             <div className='bg-white bg-opacity-95 text-gray-800 rounded-2xl items-center h-12 w-1/2 flex px-2 gap-2'>
