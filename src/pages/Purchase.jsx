@@ -148,7 +148,7 @@ const Purchase = ({ loggedIn }) => {
                       >
                         Confirm
                       </Button>
-                      <input type="text" className='hidden' />
+                      <input type="text" className='block' />
                     </DialogFooter>
                   </DialogContent>
                 </Dialog>
