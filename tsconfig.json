@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "module": "ESNext",
+      "jsx": "react-jsx",
+      "moduleResolution": "Node",
+      "baseUrl": ".",
+      "paths": {
+        "@/*": ["src/*"]
+      },
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "strict": false,
+      "skipLibCheck": true
+    },
+
+    "include": ["src", "src/components/hooks/use-toast.jsx"]
+  }
