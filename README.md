@@ -1,12 +1,34 @@
-# React + Vite
+# 🍽️ LUNCHRR
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+**LUNCHRR** is a smart, easy-to-use lunch attendance and payment tracking web application designed for schools, small businesses, and community groups. It simplifies daily meal check-ins, tracks who eats when, and calculates payment summaries—saving time for administrators and ensuring accountability.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ **Attendance Check-In** – Quickly mark who attended lunch each day.
+- 💰 **Automatic Payment Tracking** – Calculates total costs based on attendance.
+- 📊 **User Dashboard** – View summaries of attendance and payment history.
+- 👥 **User Management** – Add, remove, and manage users easily.
+- 🎨 **Clean UI** – Built with ReactJS + Tailwind CSS for a modern, responsive design.
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** ReactJS, Tailwind CSS
+- **State Management:** React Context API (or Redux if applicable)
+- **Backend:** *(Specify if used, e.g., Firebase, Express.js, etc.)*
+- **Database:** *(e.g., Firestore, MongoDB, etc.)*
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/yourusername/LUNCHRR.git
+cd LUNCHRR
+npm install
+npm start
