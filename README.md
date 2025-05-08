@@ -32,3 +32,17 @@ git clone https://github.com/yourusername/LUNCHRR.git
 cd LUNCHRR
 npm install
 npm start
+```
+
+## 🙌 Creator
+
+Created by **Saran-Ochir**  
+Role: Front-End development, UI/UX designer
+Connect on [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/saran-ochir-s-96265931b/))  
+Follow on Instagram: [@Saagii_21]([https://www.instagram.com/yourhandle](https://www.instagram.com/saagii_21/))
+
+---
+
+Created by **Tuguldur**
+Role: Back-End development 
+Follow on Instagram: [@tuguldur_1223](https://www.instagram.com/tuguldur_1223)
