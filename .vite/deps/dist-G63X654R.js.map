@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../node_modules/@nextui-org/dom-animation/dist/index.mjs"],
+  "sourcesContent": ["\"use client\";\n\n// src/index.ts\nimport { domAnimation } from \"framer-motion\";\nvar src_default = domAnimation;\nexport {\n  src_default as default\n};\n"],
+  "mappings": ";;;;;;;;;AAIA,IAAI,cAAc;",
+  "names": []
+}
